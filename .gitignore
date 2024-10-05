@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (venv) directory
+venv/
+
+# VSCode or PyCharm project directories (optional, wenn du diese IDEs nutzt)
+.vscode/
+.idea/
+
+# Other files that are not relevant to version control
+*.log
+*.sqlite3
